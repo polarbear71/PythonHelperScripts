@@ -12,3 +12,4 @@ for wort in wortliste:
     print(wort)
   
 print("Added just another line of text")
+print("Yet anothe line of text")
